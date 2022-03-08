@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    titleWeb: "đoán xem",
+    introTitle: 'Nguyên ơi',
+    introDesc: `Anh hỏi em thế gian này nơi nào đẹp nhất, đáp án chính là bên cạnh anh, chỉ cần là bên cạnh anh thôi.`,
+    btnIntro: 'hihi (〃＾▽＾〃)',
+    title: 'Nguyên có thương em hông?',
+    desc: 'Chúng mình bên nhau lâu lâu nha',
+    btnYes: 'Có nha (´ ∀ ` *)',
+    btnNo: 'Không nha	(*꒦ິ꒳꒦ີ) ',
+    question: 'Nguyên mau khen em đi',
+    btnReply: 'Gửi tặng em bé của Nguyên(„• ֊ •„) ',
+    reply: 'xinh đẹp, ngoan ngoãn, chăm chỉ, nấu ăn tốt, chỉ thương Nguyên,...',
+    mess: 'Em biết Nguyên sẽ khen em như vậy mà	(ﾉ´ヮ`)ﾉ*: ･ﾟ ',
+    messDesc: 'Đợi Nguyên khỏe, em muốn nghe giọng của Nguyên ',
+    btnAccept: ' Tất nhiên là được ＼(≧▽≦)／',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
